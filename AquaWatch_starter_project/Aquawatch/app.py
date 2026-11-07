@@ -7,7 +7,7 @@ import pandas as pd
 # -----------------------------
 
 st.set_page_config(
-    page_title="AquaWatch Created by Ishant , Divisha , Aanya , Aakriti , aditya",
+    page_title="AquaWatch",
     page_icon="💧",
     layout="wide"
 )
